@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface JKLViewController : UIViewController
+@property (strong, nonatomic) UIScrollView *scrollView;
+@property (strong, nonatomic) UILabel *label;
 
 @end
