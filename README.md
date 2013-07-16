@@ -8,4 +8,4 @@ In this example I had to set it to 290px since I got 15 px on both sides as padd
 * Clone this repository `git clone https://github.com/jk/UILabelVariableHeightTest.git`
 * `cd UILabelVariableHeightTest`
 * Install its dependencies via CocoaPods `pod update`
-* Open workspace in Xcode `open -a UILabelVariableHeightTest.xcworkspace`
+* Open workspace in Xcode `open UILabelVariableHeightTest.xcworkspace`
